@@ -1,7 +1,6 @@
-# box-for-wagrant Описание для новичков как создать свой бокс для Vagrant
+# Starting box for Vagrant with Git, Docker & Docker compose
 
-- Введение
-- Настройка
-- Тестирование
- 
-Стартовый бокс для Vagrant
+## Initialization script
+- Install Git (git)
+- Install Docker (docker)
+- Install Docker Compose (docker-compose)
